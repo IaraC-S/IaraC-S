@@ -4,7 +4,7 @@
   <a href="https://github.com/IaraC-S">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iarac-s&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/> 
  
-  <img height="180em" src="github-readme-stats.vercel.app/api/wakatime?username=iarac-s"/>
+  <img height="180em" src="https:/github-readme-stats.vercel.app/api/wakatime?username=iarac-s"/>
 </div>
 
 <a href = "mailto:iaracampos.df@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
