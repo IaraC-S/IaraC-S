@@ -3,8 +3,7 @@
 <div align="left">
   <a href="https://github.com/IaraC-S">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iarac-s&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
- 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=iarac-s&layout=compact&theme=tokyonight&langs_count=8&card_width=320"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=iarac-s&layout=compact&theme=tokyonight&langs_count=8&card_width=320"/></a>
 </div>
 
 <a href = "mailto:iaracampos.df@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
